@@ -2,3 +2,10 @@
     border: 15px;
     box-shadow: 8px;
 }
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 320px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}

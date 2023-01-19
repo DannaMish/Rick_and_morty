@@ -9,12 +9,14 @@
 }
 .image{
     border-radius: 15px;
-    box-shadow:5px 2px 2px 5px;
+    /*box-shadow:5px 2px 2px 5px;*/
     color: brown;
-    grid-template-columns: repeat(auto-fill, 230px);
-    gap: 40px;  
 }
 .card{
-    background-color: darksalmon;
+    background-color: white;
+    list-style: none;
+    border-radius: 15px;
+    box-shadow:4px 5px 10px 1px brown;
+    opacity: 0.95;
     
 }
