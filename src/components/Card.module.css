@@ -1,0 +1,20 @@
+.button{
+    border-radius: 10px;
+    background-color: rgb(222, 93, 202);
+}
+.h2{
+    font-size: 2rem;
+    color: blueviolet;
+    font-family: cursive;
+}
+.image{
+    border-radius: 15px;
+    box-shadow:5px 2px 2px 5px;
+    color: brown;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 40px;  
+}
+.card{
+    background-color: darksalmon;
+    
+}

@@ -1,0 +1,9 @@
+.button{
+    border-radius: 10px;
+    color: rgb(91, 27, 6);
+    background-color: rgb(107, 152, 152);
+}
+.input{
+    border-radius: 10px;
+    background-color: rgb(202, 127, 191);
+}
